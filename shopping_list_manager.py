@@ -1,6 +1,3 @@
-# shopping_lisalx_be_python/
- └── fns_and_dsa/
-      └── shopping_list_manager.py
 
 def display_menu():
     print("\nShopping List Manager")
